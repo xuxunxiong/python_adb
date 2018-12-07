@@ -1,0 +1,15 @@
+packname:
+activty :
+times : 2
+seed : 9999
+throttle : 300
+touch : 30
+motion : 25
+majornav  : 5
+appswitch  : 25
+trackball : 0
+syskeys : 0
+count : 1000
+log_file_path : D:\monkey.txt
+xingneng_packname :
+number : 20
